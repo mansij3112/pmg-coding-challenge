@@ -1,6 +1,6 @@
 # pmg-coding-challenge
 
-Challenge : Creating a CSV Combiner
+**Challenge :** Creating a CSV Combiner
 
 A program that :
 1. Takes multiple CSV file path as parameters
