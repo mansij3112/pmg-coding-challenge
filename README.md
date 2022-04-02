@@ -11,7 +11,7 @@
 - Extracting csv file names from file paths 
 - Creating categoricals, merging them, and returning a combined data frame 
 - Adding a new column with corresponding file names
-- Returning the combined data frame as an combined CSV
+- Returning the combined data frame as a combined CSV
 ----------------------
   
 **Input :**
