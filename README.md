@@ -14,6 +14,7 @@ Overview :
 - Returning the combined data frame as an combined CSV
   
 **Input :** 
+Through command line
  ` ./csv-combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv`
   
 
